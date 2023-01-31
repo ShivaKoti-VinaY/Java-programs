@@ -1,0 +1,1 @@
+/*in this we r taking the string abxcxdxxx and we are moving those x into last order*/
